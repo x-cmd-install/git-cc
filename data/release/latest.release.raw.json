@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 2727903,
       "digest": "sha256:ad9a2472c505576654b21d7329cc04ad1fa80cf7af12038be4e5cf1e839bb347",
-      "download_count": 0,
+      "download_count": 2,
       "created_at": "2026-08-29T22:27:40Z",
       "updated_at": "2026-08-29T22:27:40Z",
       "browser_download_url": "https://github.com/SKalt/git-cc/releases/download/v0.2.8-rc0/git-cc_0.2.8-rc0_linux_386.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 2831439,
       "digest": "sha256:7303a4e7e4c0390bc29f02eb6e194a7686d88a1c2285d2d0d8c80d0f786c1441",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-08-29T22:27:40Z",
       "updated_at": "2026-08-29T22:27:41Z",
       "browser_download_url": "https://github.com/SKalt/git-cc/releases/download/v0.2.8-rc0/git-cc_0.2.8-rc0_linux_amd64.rpm"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 2846094,
       "digest": "sha256:9ec3961450877e4a848ed64ae4f107ec829ec4d43d7d78520a862be3aab8c816",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-08-29T22:27:40Z",
       "updated_at": "2026-08-29T22:27:40Z",
       "browser_download_url": "https://github.com/SKalt/git-cc/releases/download/v0.2.8-rc0/git-cc_0.2.8-rc0_linux_amd64.tar.gz"
