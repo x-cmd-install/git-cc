@@ -1,0 +1,27 @@
+- repo: aur
+  srcname: git-cc
+  binname: git-cc
+  visiblename: git-cc
+  version: 0.2.6
+  origversion: 0.2.6-1
+  status: newest
+  summary: a git extension to help write conventional commits
+  maintainers:
+    - fallback-mnt-aur@repology
+  licenses:
+    - LicenseRef-PolyForm-Free-Trial-1.0.0
+    - PolyForm-Noncommercial-1.0.0
+- repo: macports
+  srcname: devel/git-cc
+  binname: git-cc
+  visiblename: git-cc
+  version: 0.2.6
+  origversion: null
+  status: newest
+  summary: A git extension to help write conventional commits
+  maintainers:
+    - herbygillot@github
+  licenses:
+    - permissive
+  categories:
+    - devel
