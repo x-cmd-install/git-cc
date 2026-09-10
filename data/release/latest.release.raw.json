@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 2846094,
       "digest": "sha256:9ec3961450877e4a848ed64ae4f107ec829ec4d43d7d78520a862be3aab8c816",
-      "download_count": 8,
+      "download_count": 9,
       "created_at": "2026-08-29T22:27:40Z",
       "updated_at": "2026-08-29T22:27:40Z",
       "browser_download_url": "https://github.com/SKalt/git-cc/releases/download/v0.2.8-rc0/git-cc_0.2.8-rc0_linux_amd64.tar.gz"
