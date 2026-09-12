@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 2710307,
       "digest": "sha256:a63cab1a3ab9615e9268151d6fff316ad4679250a06b743feb03f4ec3e46578d",
-      "download_count": 11,
+      "download_count": 12,
       "created_at": "2026-08-29T22:27:39Z",
       "updated_at": "2026-08-29T22:27:39Z",
       "browser_download_url": "https://github.com/SKalt/git-cc/releases/download/v0.2.8-rc0/git-cc_0.2.8-rc0_darwin_arm64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 2715382,
       "digest": "sha256:5956cbde210acfde5432f4d7bf8802493301eb12122b16c327d5206b2b04610c",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-08-29T22:27:40Z",
       "updated_at": "2026-08-29T22:27:41Z",
       "browser_download_url": "https://github.com/SKalt/git-cc/releases/download/v0.2.8-rc0/git-cc_0.2.8-rc0_linux_386.deb"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 2715231,
       "digest": "sha256:195b99d5ead4cb330343ba30a6f8aa30edd6afe3b44ebe8c183acde4feb2cb8d",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-08-29T22:27:41Z",
       "updated_at": "2026-08-29T22:27:41Z",
       "browser_download_url": "https://github.com/SKalt/git-cc/releases/download/v0.2.8-rc0/git-cc_0.2.8-rc0_linux_386.pkg.tar.zst"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 2846094,
       "digest": "sha256:9ec3961450877e4a848ed64ae4f107ec829ec4d43d7d78520a862be3aab8c816",
-      "download_count": 12,
+      "download_count": 13,
       "created_at": "2026-08-29T22:27:40Z",
       "updated_at": "2026-08-29T22:27:40Z",
       "browser_download_url": "https://github.com/SKalt/git-cc/releases/download/v0.2.8-rc0/git-cc_0.2.8-rc0_linux_amd64.tar.gz"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 2606660,
       "digest": "sha256:19de1da258c286736e7ffc75edd7f95eda21d3bd63aa0e4f09a129f6f002c70d",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-08-29T22:27:41Z",
       "updated_at": "2026-08-29T22:27:42Z",
       "browser_download_url": "https://github.com/SKalt/git-cc/releases/download/v0.2.8-rc0/git-cc_0.2.8-rc0_linux_arm64.deb"
