@@ -2,12 +2,12 @@
   srcname: git-cc
   binname: git-cc
   visiblename: git-cc
-  version: 0.2.6
-  origversion: 0.2.6-1
-  status: newest
+  version: 0.2.8_rc0
+  origversion: 0.2.8_rc0-1
+  status: devel
   summary: a git extension to help write conventional commits
   maintainers:
-    - fallback-mnt-aur@repology
+    - fbf-prog64@aur
   licenses:
     - LicenseRef-PolyForm-Free-Trial-1.0.0
     - PolyForm-Noncommercial-1.0.0
